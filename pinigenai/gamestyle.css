@@ -94,7 +94,7 @@ img { border: 0; }
 
 
 .play-btn { display:none; position: absolute; left: calc(50% + 50px); bottom: 30px; z-index: 1100;transform: none; cursor: pointer;}
-.sign { position: absolute; left: calc(50% - 136px); bottom: 440px; z-index: 999; transform: none; }
+.sign { position: absolute; left: calc(50% - 150px); bottom: 427px; z-index: 999; transform: scale(0.8, 0.8); }
 .bubble { position: absolute; left: calc(50% - 390px); bottom: 170px; z-index: 999; display: block; }
 
 
